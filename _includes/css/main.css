@@ -216,13 +216,19 @@ a:focus {
 ################################################################# */
 
 #headerwrap {
-	background-color: {{ site.colors.primary }};
 	min-height: 0px;
-	padding-top: 100px;
-	padding-bottom: 50px;
-	text-align: center;
+	padding-top: 250px;
+	padding-bottom: 400px;
+	text-align: left;
+	position: relative;
 }
-
+.overlay-text{
+	background-color: #000000;
+    position: absolute;
+    opacity: 0.7;
+    margin: 0px 327px 0px 68px;
+    padding: 20px 00px 20px 50px;
+}
 #headerwrap h3, h5 {
 	color: white;
 	font-weight: 400;
