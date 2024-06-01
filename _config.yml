@@ -1,12 +1,12 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: SOLID.
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Resilient Girl Initiative
+description: "The Resilient Girl Initiative we are committed to redesigning the future of young girls as we address  pressing issues such as sexual and gender-based violence, period poverty, and self-esteem challenges that disproportionately affect young girls."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "/resilient-girl-initiative" #important: start with /
 url: "http://yourdomain.com"
-
+logo: assets/img/logo.png
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title/
@@ -34,81 +34,85 @@ collections:
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
-  - title: dribbble
-    url:
-  - title: facebook
-    url:
-  - title: twitter
-    url:
   - title: instagram
-    url:
-  - title: tumblr
-    url:
+    url: https://www.instagram.com/resilientgirlinitiative?igsh=eHo4NGNvaTJiZXVi
+  - title: facebook
+    url: https://web.facebook.com/people/Resilient-Girl-Initiative/100085615161822/?mibextid=2JQ9oc
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines:
-    - Some Ave, 987,
-    - 23890, New York,
-    - United States.
-email: hello@solidtheme.com
-tel: +34 8493-4893
+    - Fathia Swim Street, Sote Ibafo, 
+    - Ogun State
+email: resilientgirlinitiative@gmail.com
+tel: +2349078382224 | +2349032772384
 
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
 
 # Members information. Shown on About page.
 members:
-  - name: Mark Webber
-    position: CEO
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team01.jpg
+  - name: Joy Oluwatoyin Adeboye
+    position: Executive Director/ Founder
+    text: Founder and executive director at Resilient Girl initiative, This  is inspired by her experience of been a survivor of SGBV, a  feminist and a strong community development advocate. she is committed to Ending all forms of violence against women and girls and promoting gender equality 
+    img: joy.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:name@domain.com
+        url: mailto:joyoluwatoyin5@gmail.com
       - title: twitter
-        url: http://twitter.com/handle
-  - name: Paul Jameson
-    position: Lead Designer
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team02.jpg
+        url: https://x.com/AdeboyeJoyOluw1?t=3cOLszPT08GH2wfZk7Jf9g&s=09
+
+  - name: Adekunle Oluwuyiwa OGUNBAYO 
+    position: Director Of Digital information and communication
+    text: Adekunle Ogunbayo, a Bowen University graduate in History and International Studies, is a passionate and dedicated individual with a strong academic background. He excels in communication, teamwork, and creative skills like graphic design, video editing, and social media management, with a proven track record of delivering quality results.
+    img: ade.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
-  - name: Laura Sommers
-    position: Lead Developer
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team03.jpg
+        url: mailto:adekunleoluwamuyiwa@gmail.com
+    
+  - name:  Boluwatife P. EMMANUEL 
+    position:  Programs manager
+    text:  She is an undergraduate student at ADEKUNLE AJASIN UNIVERSITY, AKUNGBA   a passionate  Practicing Child, Psychologist, Educator, a teacher and a Volunteer.
+    img: boluwa.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
-  - name: Martin Blunt
-    position: Marketing
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team04.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
+        url: mailto:boluwatifeemmanuel2018@gmail.com
       - title: twitter
         url: http://twitter.com/handle
 
-# Clients information. Shown on Home and About pages.
-clients:
-  - name: dribbble
-    img: client01.png
-  - name: Code is Poetry
-    img: client02.png
-  - name: Vimeo
-    img: client03.png
-  - name: VimeoPro
-    img: client04.png
+  - name: Kitgak Simon
+    position: Website Manager
+    text: 
+    img: kitgak.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:kitgaksimon@gmail.com
+      - title: twitter
+        url: https://x.com/SimonKitgak?t=zUEiRaLx9hu3QS4xFw_5zg&s=09
+
+  - name: Kosomolate Precious
+    position: Content Creator
+    text: 
+    img: precious.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:preciouskosomolate@gmail.com
+      - title: twitter
+        url: https://x.com/Thecosmolate?t=YVGKNWW3-Ve5VM0E7C9S0Q&s=09
+
+# # Clients information. Shown on Home and About pages.
+# clients:
+#   - name: dribbble
+#     img: client01.png
+#   - name: Code is Poetry
+#     img: client02.png
+#   - name: Vimeo
+#     img: client03.png
+#   - name: VimeoPro
+#     img: client04.png
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+about: "We  believe that every Girl child has  the capacity to win and Navigate against barriers. We are committed to redesigning the future of young girls in the society through organizing of measurable social impact campaign and leadership projects that will affect girls’ lives, and her community."
 
 # Testimonial content. Shown on Home and About page.
 testimonial:
