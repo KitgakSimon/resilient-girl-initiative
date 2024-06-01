@@ -69,6 +69,8 @@ members:
     social:
       - title: envelope #use for email address
         url: mailto:adekunleoluwamuyiwa@gmail.com
+      - title: facebook
+        url: https://x.com/AdeboyeJoyOluw1?t=3cOLszPT08GH2wfZk7Jf9g&s=09
     
   - name:  Boluwatife P. EMMANUEL 
     position:  Programs manager
@@ -82,7 +84,7 @@ members:
 
   - name: Kitgak Simon
     position: Website Manager
-    text: 
+    text: Kitgak Simon, Website Manager for RGI, is an award-winning humanitarian and sustainable development expert. He supports women and youths in building startups and innovative solutions. A researcher, electronics and digital engineering professional, he excels in mathematical applications, tech support, renewable energy, and technology. He holds a Bachelor's in Electrical and Electronics Engineering.
     img: kitgak.jpg
     social:
       - title: envelope #use for email address
