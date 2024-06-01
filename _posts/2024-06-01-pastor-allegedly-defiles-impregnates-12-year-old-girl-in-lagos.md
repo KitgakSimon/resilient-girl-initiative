@@ -4,18 +4,11 @@ title: "Pastor Allegedly Defiles, Impregnates 12-Year-Old Girl In Lagos"
 date: 2024-06-01 1:05:46
 author: Kitgak Simon
 categories:
-- Pastor
 - Rape
-- Impregnant
 img: FB_IMG_1635780300563.webp
 thumb: FB_IMG_1635780302753.webp
 ---
 
-<style>
- .col-lg-8 img{
-    margin-left: 40%;
- }
-</style>
 An acclaimed pastor, Kehinde Sonaike accused of [raping](https://feminine.com.ng/2019/08/30/lady-reveals-how-her-father-raped-her-as-a-child-and-called-it-hugs/) and impregnating 12-year-old girl in Oworoshoki area of Lagos State has taken to his heels.
 
 He was exposed after allegedly having carnal knowledge of the teenager repeatedly.

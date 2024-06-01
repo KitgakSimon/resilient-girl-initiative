@@ -6,7 +6,7 @@ author: Kitgak Simon
 categories:
 - Founder
 img: Joy-Oluwatoyin-girl-up.webp
-thumb: Joy-Oluwatoyin-girl-up.webp
+thumb: joy.jpg
 ---
 
 Nigerian women are breaking boundaries, and making a difference in the world. Adeboye Joy Oluwatoyin is one of them. She is a 21-year-old [**feminist**](https://womenofrubies.com/2023/03/08/12-black-canadian-pacesetters-and-feminists-who-inspire-us/) who has made significant contributions to Nigeria’s humanitarian and youth engagement sectors. With over five years of experience in these fields, she has demonstrated exceptional leadership through volunteering with various NGOs and her social impact campaign projects.
