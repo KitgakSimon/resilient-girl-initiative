@@ -38,6 +38,9 @@ social:
     url: https://www.instagram.com/resilientgirlinitiative?igsh=eHo4NGNvaTJiZXVi
   - title: facebook
     url: https://web.facebook.com/people/Resilient-Girl-Initiative/100085615161822/?mibextid=2JQ9oc
+  - title: linkedin
+    url: https://www.linkedin.com/company/resilient-girl-initiative/
+    
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
@@ -80,7 +83,7 @@ members:
       - title: envelope #use for email address
         url: mailto:boluwatifeemmanuel2018@gmail.com
       - title: twitter
-        url: http://twitter.com/handle
+        url: https://x.com/EducatorBolu?t=9qutmaVEvTH5m_LHe-NRZg&s=09
 
   - name: Kitgak Simon
     position: Website Manager
