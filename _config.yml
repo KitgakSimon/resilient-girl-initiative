@@ -2,20 +2,22 @@
 
 # Site settings
 title: Resilient Girl Initiative
-description: "The Resilient Girl Initiative we are committed to redesigning the future of young girls as we address  pressing issues such as sexual and gender-based violence, period poverty, and self-esteem challenges that disproportionately affect young girls."
-analytics: #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "/resilient-girl-initiative" #important: start with /
-url: "http://yourdomain.com"
+description: >
+  The Resilient Girl Initiative we are committed to redesigning the future of young girls as we address pressing issues such as sexual and gender-based violence, period poverty, and self-esteem challenges that disproportionately affect young girls.
+analytics: # Google analytics code in the format XX-nnnnnnnn-n
+baseurl: "" # important: start with /
+url: "https://resilientgirlinitiative.org"
 logo: assets/img/logo.png
+
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title/
-excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
+excerpt_separator: <!--more--> # use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
 
-colors:  #in hex code if not noted else
-  primary: "#00b3fe" #"#F70031"
-  primary_rgb: "0,179,254" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.
-  secondary: "#384452" #"#33004D"
+colors:  # in hex code if not noted else
+  primary: "#00b3fe" # "#F70031"
+  primary_rgb: "0,179,254" # "247,0,49" # rgb of the primary. Needed in some places for the transparency effect.
+  secondary: "#384452" # "#33004D"
   link: "#428bca"
   link_hover: "#01b2fe"
   footer_heading: "#ffffff"
@@ -40,16 +42,14 @@ social:
     url: https://web.facebook.com/people/Resilient-Girl-Initiative/100085615161822/?mibextid=2JQ9oc
   - title: linkedin
     url: https://www.linkedin.com/company/resilient-girl-initiative/
-    
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines:
-    - Fathia Swim Street, Sote Ibafo, 
+    - Fathia Swim Street, Sote Ibafo,
     - Ogun State
 email: resilientgirlinitiative@gmail.com
 tel: +2349078382224 | +2349032772384
-
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
 
@@ -57,50 +57,55 @@ tel: +2349078382224 | +2349032772384
 members:
   - name: Joy Oluwatoyin Adeboye
     position: Executive Director/ Founder
-    text: Founder and executive director at Resilient Girl initiative, This  is inspired by her experience of been a survivor of SGBV, a  feminist and a strong community development advocate. she is committed to Ending all forms of violence against women and girls and promoting gender equality 
+    text: >
+      Founder and executive director at Resilient Girl initiative, This is inspired by her experience of been a survivor of SGBV, a feminist and a strong community development advocate. she is committed to Ending all forms of violence against women and girls and promoting gender equality 
     img: joy.jpg
     social:
-      - title: envelope #use for email address
+      - title: envelope # use for email address
         url: mailto:joyoluwatoyin5@gmail.com
       - title: twitter
         url: https://x.com/AdeboyeJoyOluw1?t=3cOLszPT08GH2wfZk7Jf9g&s=09
 
-  - name: Adekunle Oluwuyiwa OGUNBAYO 
+  - name: Adekunle Oluwuyiwa OGUNBAYO
     position: Director Of Digital information and communication
-    text: Adekunle Ogunbayo, a Bowen University graduate in History and International Studies, is a passionate and dedicated individual with a strong academic background. He excels in communication, teamwork, and creative skills like graphic design, video editing, and social media management, with a proven track record of delivering quality results.
+    text: >
+      Adekunle Ogunbayo, a Bowen University graduate in History and International Studies, is a passionate and dedicated individual with a strong academic background. He excels in communication, teamwork, and creative skills like graphic design, video editing, and social media management, with a proven track record of delivering quality results.
     img: ade.jpg
     social:
-      - title: envelope #use for email address
+      - title: envelope # use for email address
         url: mailto:adekunleoluwamuyiwa@gmail.com
       - title: facebook
         url: https://www.facebook.com/ogunbayo.adekunle.3?mibextid=ZbWKwL
-    
-  - name:  Boluwatife P. EMMANUEL 
-    position:  Programs manager
-    text:  She is an undergraduate student at ADEKUNLE AJASIN UNIVERSITY, AKUNGBA   a passionate  Practicing Child, Psychologist, Educator, a teacher and a Volunteer.
+
+  - name: Boluwatife P. EMMANUEL
+    position: Programs manager
+    text: >
+      She is an undergraduate student at ADEKUNLE AJASIN UNIVERSITY, AKUNGBA a passionate Practicing Child, Psychologist, Educator, a teacher and a Volunteer.
     img: boluwa.jpg
     social:
-      - title: envelope #use for email address
+      - title: envelope # use for email address
         url: mailto:boluwatifeemmanuel2018@gmail.com
       - title: twitter
         url: https://x.com/EducatorBolu?t=9qutmaVEvTH5m_LHe-NRZg&s=09
 
   - name: Kitgak Simon
     position: Website Manager
-    text: Kitgak Simon, Website Manager for RGI, is an award-winning humanitarian and sustainable development expert. He supports women and youths in building startups and innovative solutions. A researcher, electronics and digital engineering professional, he excels in mathematical applications, tech support, renewable energy, and technology. He holds a Bachelor's in Electrical and Electronics Engineering.
+    text: >
+      Kitgak Simon, Website Manager for RGI, is an award-winning humanitarian and sustainable development expert. He supports women and youths in building startups and innovative solutions. A researcher, electronics and digital engineering professional, he excels in mathematical applications, tech support, renewable energy, and technology. He holds a Bachelor's in Electrical and Electronics Engineering.
     img: kitgak.jpg
     social:
-      - title: envelope #use for email address
+      - title: envelope # use for email address
         url: mailto:kitgaksimon@gmail.com
       - title: twitter
         url: https://x.com/SimonKitgak?t=zUEiRaLx9hu3QS4xFw_5zg&s=09
 
   - name: Kosomolate Precious
     position: Content Creator
-    text: 
+    text: >
+      Kosomolate Precious is a skilled content creator focused on producing engaging and impactful content to support the mission of Resilient Girl Initiative.
     img: precious.jpg
     social:
-      - title: envelope #use for email address
+      - title: envelope # use for email address
         url: mailto:preciouskosomolate@gmail.com
       - title: twitter
         url: https://x.com/Thecosmolate?t=YVGKNWW3-Ve5VM0E7C9S0Q&s=09
@@ -117,10 +122,12 @@ members:
 #     img: client04.png
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "We  believe that every Girl child has  the capacity to win and Navigate against barriers. We are committed to redesigning the future of young girls in the society through organizing of measurable social impact campaign and leadership projects that will affect girls’ lives, and her community."
+about: >
+  We believe that every Girl child has the capacity to win and Navigate against barriers. We are committed to redesigning the future of young girls in the society through organizing of measurable social impact campaign and leadership projects that will affect girls’ lives, and her community.
 
 # Testimonial content. Shown on Home and About page.
 testimonial:
-    message: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
-    author: Marcel Newman
-    position: WEB DESIGNER - BLACKTIE.CO
+  message: >
+    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+  author: Marcel Newman
+  position: WEB DESIGNER - BLACKTIE.CO
