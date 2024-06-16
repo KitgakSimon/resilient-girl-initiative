@@ -1,6 +1,4 @@
----
-layout: default
----
+
 <style>
 .image-grid {
   display: grid;
@@ -67,7 +65,8 @@ layout: default
 
 </style>
 
-
+{% include head.html %}
+{% include nav.html %}
 {% include wrap.html %}
   <main>
     {{ content }}
@@ -89,3 +88,5 @@ layout: default
 
   
 
+{% include footer.html %}
+{% include js.html %}
