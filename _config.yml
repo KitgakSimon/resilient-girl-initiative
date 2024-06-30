@@ -109,16 +109,16 @@ members:
       - title: twitter
         url: https://x.com/Thecosmolate?t=YVGKNWW3-Ve5VM0E7C9S0Q&s=09
 
-# # Clients information. Shown on Home and About pages.
-# clients:
-#   - name: dribbble
-#     img: client01.png
-#   - name: Code is Poetry
-#     img: client02.png
-#   - name: Vimeo
-#     img: client03.png
-#   - name: VimeoPro
-#     img: client04.png
+# Clients information. Shown on Home and About pages.
+clients:
+  - name: Precious Foundation
+    img: client1.jpg
+  - name: Female & More
+    img: client2.jpg
+  - name: SDSN
+    img: client3.jpg
+  - name: KGI
+    img: client4.jpg
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: >
