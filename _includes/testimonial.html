@@ -1,13 +1,94 @@
-<div id="twrap">
-    <div id="twrapback"></div>
-    <div class="container centered">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2">
-            <i class="fa fa-comment-o"></i>
-            <p>{{ site.testimonial.message }}</p>
-            <h4><br/>{{ site.testimonial.author }}</h4>
-            <p>{{ site.testimonial.position }}</p>
+<style>
+.testimonials {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap; /* This ensures the boxes wrap to the next line if there's not enough space */
+    gap: 1rem; /* Adds space between the boxes */
+    justify-content: space-evenly;
+    margin: 35px;
+}
+@media screen and (max-width: 767px) {
+    .testimonials {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap; /* This ensures the boxes wrap to the next line if there's not enough space */
+    gap: 0.5rem; /* Adds space between the boxes */
+    justify-content: center;
+    margin: 35px;
+
+}
+.review-card {
+    border: 1px solid #ddd;
+    padding: 1rem;
+    border-radius: 8px;
+    background-color: #fff;
+    width: 100% !important; /* Adjust width to fit three boxes in a row */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+}
+
+.review-card {
+    border: 1px solid #ddd;
+    padding: 1rem;
+    border-radius: 8px;
+    background-color: #fff;
+    width: calc(33.33% - 2rem); /* Adjust width to fit three boxes in a row */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.stars span {
+    color: gold;
+}
+
+.review-text {
+    margin: 1rem 0;
+}
+
+.reviewer {
+    display: flex;
+    align-items: center;
+}
+
+.reviewer-photo {
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    margin-right: 1rem;
+}
+
+.reviewer-info {
+    display: flex;
+    flex-direction: column;
+}
+
+.reviewer-name, .reviewer-role {
+    margin: 0;
+}
+
+</style>
+
+<h2 style="text-align: center;">Testimonies</h2>
+<hr>
+<div class="testimonials">
+    {% for testimony in site.testimonies %}
+        <div class="review-card">
+            <div class="stars">
+                <span>&#9733;</span>
+                <span>&#9733;</span>
+                <span>&#9733;</span>
+                <span>&#9733;</span>
+                <span>&#9733;</span>
             </div>
-        </div><! --/row -->
-    </div><! --/container -->
-</div><! --/twrap -->
+            <p class="review-text">{{ testimony.description }}</p>
+            <div class="reviewer">
+                <img src="/assets/img/testimony/{{ testimony.img }}" alt="{{ testimony.name }}" class="reviewer-photo">
+                <div class="reviewer-info">
+                    <a href="{{ testimony.link }}" target="_blank">
+                        <p class="reviewer-name">{{ testimony.name }}</p>
+                    </a>
+                    
+                </div>
+            </div>
+        </div>
+    {% endfor %}
+</div>

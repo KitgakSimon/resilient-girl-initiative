@@ -125,8 +125,12 @@ about: >
   We believe that every Girl child has the capacity to win and Navigate against barriers. We are committed to redesigning the future of young girls in the society through organizing of measurable social impact campaign and leadership projects that will affect girls’ lives, and her community.
 
 # Testimonial content. Shown on Home and About page.
-testimonial:
-  message: >
-    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-  author: Marcel Newman
-  position: WEB DESIGNER - BLACKTIE.CO
+testimonies:
+  - name: SDG IMPACT testimony
+    img: SDG.webp
+    link: https://www.youtube.com/watch?v=W9QY-CoTKeI
+    description: Loren text
+  - name: Project Period Dignity
+    img: project-period-dignity.png
+    link: https://youtu.be/V5Oq5X5_f6s?si=DlXzFwhmIlluW84v
+    description: As a means of Enhancing Girls Sexual and reproductive health right we Educated Young girls on health and menstruation with sanitary pad and creation of pad banks
