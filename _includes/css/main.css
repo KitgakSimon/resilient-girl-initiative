@@ -191,8 +191,8 @@ a:focus {
 }
 
 .mtb {
-	margin-top: 80px;
-	margin-bottom: 80px;
+	margin-top: 50px;
+	margin-bottom: 50px;
 }
 
 .mb {
@@ -482,7 +482,7 @@ a:focus {
 #cwrap {
 	background: #f7f7f7;
 	margin-top: 0px;
-	padding-top: 80px;
+	padding-top: 20px;
 	padding-bottom: 50px;
 }
 
