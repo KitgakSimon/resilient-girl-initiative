@@ -8,7 +8,7 @@ categories:
 - Volunteers
 permalink: /volunteers/
 ---
-# 🌟 Call for Volunteers 🌟
+# 🌟 Call for Volunteers
 
 Are you passionate about social change and impact-making? Resilient Girl Initiative is on the call for Volunteers. ✨
 
