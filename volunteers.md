@@ -3,7 +3,7 @@ layout: post
 title: Volunteers
 img: volunteers.jpg
 date: 2024-07-03 1:54:46
-author: Joy Oluwatoyin
+author: Kitgak Simon
 categories:
 - Volunteers
 permalink: /volunteers/
