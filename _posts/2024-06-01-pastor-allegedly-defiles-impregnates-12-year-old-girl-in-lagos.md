@@ -4,7 +4,7 @@ title: "Pastor Allegedly Defiles, Impregnates 12-Year-Old Girl In Lagos"
 date: 2024-06-01 1:05:46
 author: Kitgak Simon
 categories:
-- Rape
+  - Rape
 img: FB_IMG_1635780300563.webp
 thumb: FB_IMG_1635780302753.webp
 ---

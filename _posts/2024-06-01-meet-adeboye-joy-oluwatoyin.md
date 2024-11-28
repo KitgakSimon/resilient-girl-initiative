@@ -4,7 +4,7 @@ title: "Meet Adeboye Joy Oluwatoyin, Feminist and Founder Of Resilient Girl Init
 date: 2024-06-01 1:54:46
 author: Kitgak Simon
 categories:
-- Founder
+  - Founder
 img: Joy-Oluwatoyin-girl-up.webp
 thumb: joy.jpg
 ---
