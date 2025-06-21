@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Meet Adeboye Joy Oluwatoyin, Feminist and Founder Of Resilient Girl Initiative"
+title: "Meet Adeboye Joy Oluwatoyin, Feminist and Founder Of LEVAWG INITIATIVE"
 date: 2024-06-01 1:54:46
 author: Kitgak Simon
 categories:
@@ -13,7 +13,7 @@ Nigerian women are breaking boundaries, and making a difference in the world. Ad
 
 ## Career
 
-Throughout her career, Oluwatoyin has worked with several organizations, including the Female and More African Social Impact Fellowship, [*LEAP Africa*](https://womenofrubies.com/2023/03/31/9to5chick-recognises-top-100-career-women-in-africa/), Women’s Advocate and Documentation Centre, BAOBAB, [Inclusive Social Welfare and Empowerment foundation](https://inclusiveswef.co.uk/), and Nigerian Child Protection Trust. Her dedication to improving the lives of women and girls led her to found the Resilient Girl Initiative, an NGO focused on empowering young girls and women.
+Throughout her career, Oluwatoyin has worked with several organizations, including the Female and More African Social Impact Fellowship, [_LEAP Africa_](https://womenofrubies.com/2023/03/31/9to5chick-recognises-top-100-career-women-in-africa/), Women’s Advocate and Documentation Centre, BAOBAB, [Inclusive Social Welfare and Empowerment foundation](https://inclusiveswef.co.uk/), and Nigerian Child Protection Trust. Her dedication to improving the lives of women and girls led her to found the LEVAWG INITIATIVE, an NGO focused on empowering young girls and women.
 
 Oluwatoyin’s partnership and engagements have helped minors, sexual abuse victims, widows, and school children in Nigeria, she has also impacted her immediate school environment through webinars that raise awareness about sexual abuse and sex trafficking.
 
